@@ -63,5 +63,11 @@ body {
 .card-read-time{
     margin: 0;
     opacity: .6;
-    
+    line-height: 1;
+}
+
+.card-read-time span {
+    font-weight: 700;
+    display: block;
+    font-size: 1.25rem;
 }
