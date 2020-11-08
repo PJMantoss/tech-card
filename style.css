@@ -5,3 +5,12 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.card{
+    display: inherit;
+    flex-direction: column;
+    width: 90%;
+    max-width: 800px;
+    background: #111d4a;
+    color: #fff;
+}
