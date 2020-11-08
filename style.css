@@ -25,3 +25,8 @@ body {
 .card-content {
     padding: 1em;
 }
+
+.card-title, .card-read-time,
+.card-btn {
+    font-family: 'Blinker', sans-serif;
+}
