@@ -55,7 +55,13 @@ body {
     font-weight: 700;
     letter-spacing: 1px;
     text-decoration: none;
-    padding: .35em 1.2em;
+    padding: .35em 1em;
     background: #05cbe9;
     color: #111d4a;
+}
+
+.card-read-time{
+    margin: 0;
+    opacity: .6;
+    
 }
