@@ -21,3 +21,7 @@ body {
     min-width: 0;
     flex-basis: 200px;
 }
+
+.card-content {
+    padding: 1em;
+}
