@@ -36,3 +36,9 @@ body {
     font-size: 1.75rem;
     color: #05cbe9;
 }
+
+.card-body {
+    font-size: 1rem;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 1.6;
+}
