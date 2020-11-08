@@ -42,3 +42,10 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     line-height: 1.6;
 }
+
+.card-footer{
+    display: inherit;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 3em;
+}
