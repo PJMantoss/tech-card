@@ -14,3 +14,10 @@ body {
     background: #111d4a;
     color: #fff;
 }
+
+.card-img{
+    object-fit: cover;
+    min-height: 0;
+    min-width: 0;
+    flex-basis: 200px;
+}
