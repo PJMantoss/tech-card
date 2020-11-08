@@ -46,6 +46,16 @@ body {
 .card-footer{
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-end;
     margin-top: 3em;
+}
+
+.card-btn {
+    font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-decoration: none;
+    padding: .35em 1.2em;
+    background: #05cbe9;
+    color: #111d4a;
 }
